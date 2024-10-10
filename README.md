@@ -16,7 +16,8 @@ Data imported from the following link: https://raw.githubusercontent.com/RusAbk/
 The purpose of the analysis was to find out which factors influence customers' tipping behavior such as gender, smoking habits, day of the week...
 
 # Results
-Smokers 
-Day of week
-Gender
-Lunch time
+General conclusion 
+1. Smokers tend to tip more than non-smokers. However, the difference is not significant.
+2. More people visit the restaurant on Thursday and Sunday. However, the average tip values among days of week are not much different.
+3. Males tip more frequently than females.
+4. There are more people come to the restaurants for dinner. However, the average tip values between lunch and dinner are not much different, either.
